@@ -1,0 +1,35 @@
+Rock-Paper-Scissors Game
+
+Overview:
+
+This repository contains a simple yet engaging Rock-Paper-Scissors game implemented using HTML, CSS, and JavaScript. Designed with a focus on user experience, the game allows players to compete against the computer, which makes random choices. The interface is crafted to be user-friendly and visually appealing, ensuring an enjoyable gaming experience for users of all ages.
+Features
+
+User Interface:
+The game boasts a clean and intuitive interface designed with HTML and styled with CSS. The design focuses on simplicity and ease of use, making it accessible even for those new to online games.
+
+Game Logic:
+The core game logic is implemented in JavaScript, handling everything from generating random choices for the computer to determining the game’s outcome. The logic ensures a fair and unpredictable game each time it is played.
+
+
+How to Play
+
+    1.Choose Your Move: Click on the Rock, Paper, or Scissors button to make your move.
+    2.Computer's Move: The computer will randomly select its move.
+    3.See the Result: The game will display the result, showing whether you won, lost, or if it was a tie.
+    4.Play Again: Click the "Play Again" button to restart the game and play another round.
+
+
+Files :
+1.game1.html: The main HTML file containing the structure of the game. This file includes the necessary HTML elements and links to the CSS and JavaScript files.
+2.game1.css: The CSS file responsible for styling the game interface. It ensures the game looks appealing and maintains a consistent style across different devices.
+3.game1.js: The JavaScript file that handles the game logic. This file includes functions for random choice generation, outcome determination, and updating the game interface based on user interaction.
+
+
+Contributing :
+
+If you have suggestions for improving this game or want to report issues, please feel free to open an issue or submit a pull request. Contributions are welcome! Whether you have new ideas for features or fixes for bugs, your input is valuable in enhancing the game.
+
+License :
+
+This project is licensed under the MIT License. For more details, see the LICENSE file. This permissive license allows for broad usage and modification, encouraging open-source collaboration and i
